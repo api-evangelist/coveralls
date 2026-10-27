@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Coveralls is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://coveralls.io/
+Coveralls provides a hosted service that tracks test coverage for software projects. It integrates with many CI systems and version control platforms, offering detailed coverage reports, badges, and insights for both open‑source and private repositories. Users can view coverage trends, set coverage thresholds, and receive notifications. The platform supports multiple programming languages and offers enterprise features such as on‑premises deployment and advanced analytics.
+
+**Areas:** Company · CodeCoverage · CIIntegration · OpenSource · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://coveralls.io/)
+- [Documentation](https://docs.coveralls.io/)
+- [Getting started](https://docs.coveralls.io/index)
+- [Pricing](https://coveralls.io/pricing)
+- [Sign up](https://coveralls.io/sign-up?plan_id=price_0MLtUJdAZILtb4AQbItx0P9h)
+- [Blog](https://coveralls.io/announcements)
+- [Compliance](https://trust.coveralls.io/)
+- [Terms of service](https://coveralls.io/terms)
+- [GitHub](https://github.com/trust-center)
+- [Status](https://status.coveralls.io)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/coveralls/](https://apis.io/providers/coveralls/).
